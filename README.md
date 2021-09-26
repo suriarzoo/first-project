@@ -1,2 +1,2 @@
 # first-project
-Edureka - project
+Edureka - projec: This is for tutorial purpose
